@@ -1,4 +1,4 @@
-# Pet Finder 🐾
+# Pet Adoption Finder 🐾
 
 Platform web modern untuk menemukan dan mengadopsi hewan peliharaan dari shelter terpercaya. Dibangun sebagai Progressive Web App (PWA), aplikasi ini dapat diinstal di perangkat Anda dan berfungsi penuh bahkan saat offline.
 
