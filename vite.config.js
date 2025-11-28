@@ -16,9 +16,9 @@ export default defineConfig({
     },
 
     manifest: {
-      name: 'Resep-Nusantara',
-      short_name: 'Resep-Nusantara',
-      description: 'Resep Makanan dan Minuman Indonesia',
+      name: 'Pet Adoption Finder ',
+      short_name: 'PetAdoptFinder',
+      description: 'Find your perfect pet companion with ease.',
       theme_color: '#ffffff',
     },
 
