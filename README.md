@@ -11,7 +11,7 @@ Platform web modern untuk menemukan dan mengadopsi hewan peliharaan dari shelter
 - 📍 **Detail Shelter**: Informasi lengkap shelter dan hewan-hewan yang tersedia
 - ℹ️ **About**: Informasi tentang Pet Finder dan misi kami
 - 📱 **PWA Support**: Install aplikasi di perangkat mobile atau desktop
-- 🔄 **Offline Mode**: Akses konten bahkan tanpa koneksi internet
+
 
 ## 🎨 Teknologi
 
